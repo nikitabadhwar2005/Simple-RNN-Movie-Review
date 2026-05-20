@@ -5,4 +5,3 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit==1.57.0
-keras==2.15.0
